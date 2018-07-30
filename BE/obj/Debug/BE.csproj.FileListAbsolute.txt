@@ -1,0 +1,7 @@
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\bin\Debug\BE.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\bin\Debug\BE.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\obj\Debug\BE.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\obj\Debug\BE.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\bin\Debug\Newtonsoft.Json.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\bin\Debug\Newtonsoft.Json.xml
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
