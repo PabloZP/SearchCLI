@@ -1,7 +1,11 @@
 # SearchCLI
 Search words entered in search engines and compare number of results.
 
-User must type ChallengeCLI <list of queries to search>
+The executable file ChallengeCLI.exe is in the folder:  ChallengeCLI\bin\Debug
+In the command line ( User must type:
+
+ChallengeCLI <list of queries to search> 
+
 Elements must be separated by spaces.
 There must be enteres at least 2 elements (in order to make a comparison)
 An element can contain 2 or more words if they are inside double quotes
@@ -10,8 +14,12 @@ Examples of Command Line Interface:
   ChallengeCLI "C Sharp" Python Perl    -> 3 elements
   ChallengeCLI Javascript "Ruby on Rails" Pascal   -> 4 elements
   
-  Besides the CLI project, the solution includes a desktop project.
+  Besides the CLI project, just as a plus, the solution includes a desktop project.
   Both projects call the core whih is in business layer called "BL"
+  
+  In the BL layer there are 2 main classes.
+  Texto class: perform all the parsing of text entered by user.
+  Searching class: perform the searches and the calculations on the list of elements entered.
   
  Solution is in C#.
  It shows some programmkhg concepts like Polymorphism.
