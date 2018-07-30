@@ -1,0 +1,11 @@
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\BL.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\BL.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\BE.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\Common.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\BE.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\Common.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\obj\Debug\BL.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\obj\Debug\BL.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\Newtonsoft.Json.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\BL\bin\Debug\Newtonsoft.Json.xml
