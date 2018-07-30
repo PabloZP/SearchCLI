@@ -1,0 +1,17 @@
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\BE.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\BL.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Common.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\BE.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\BL.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Common.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\obj\Debug\Challenge.csprojResolveAssemblyReference.cache
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\obj\Debug\Challenge.Form1.resources
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\obj\Debug\Challenge.Properties.Resources.resources
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\obj\Debug\Challenge.csproj.GenerateResource.Cache
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\obj\Debug\Challenge.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Newtonsoft.Json.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Challenge\bin\Debug\Newtonsoft.Json.xml
