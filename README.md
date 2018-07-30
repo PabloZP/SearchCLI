@@ -19,10 +19,10 @@ Examples of Command Line Interface:
 
 The first search engine used is Google.
 I got an API key and context id. But according the Google's rules the number of results are constrained to 10 results.
-So I mocked existing results with some random functions to avoid that getting always 10 as number of results in order to make sense  for the comparison.
-Anyway the complete code how I call the Google API canbe seen in the GoogleEngine class.
+So I mocked the existing results with some random functions to avoid that getting always 10 as number of results in order to make sense for the comparison.
+Anyway the complete code how I call the Google API can be seen in the GoogleEngine class.
 
-The I tried the second search engine. I tried yahoo, bing and yandex but there was not possibly, due to lack of documentation or by asking my credit card number to get an API Key.
-So I mock results of Yahoo by some randk functions.
+Then I tried the second search engine: I tried yahoo, bing and yandex but there was not possibly, due to lack of documentation or by asking my credit card number to get an API Key.
+So I mock results of Yahoo by some random functions.
 
-At the end the 2 search engines shows results and a comparison is shown.
+At the end the 2 search engines show results and a comparison is shown.
