@@ -10,5 +10,6 @@ Examples of Command Line Interface:
   ChallengeCLI "C Sharp" Python Perl    -> 3 elements
   ChallengeCLI Javascript "Ruby on Rails" Pascal   -> 4 elements
   
-  
+  Besides the CLI project, the solution includes a desktop project.
+  Both projects call the core whih is in business layer called "BL"
   
