@@ -1,0 +1,5 @@
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Common\bin\Debug\Common.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Common\bin\Debug\Common.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Common\obj\Debug\Common.dll
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Common\obj\Debug\Common.pdb
+C:\zp\PZP\CV\jobs\2017\0000000CIGNIUM\ProgChallenge\Challenge\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
