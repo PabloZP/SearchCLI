@@ -2,12 +2,13 @@
 Search words entered in search engines and compare number of results.
 
 User must type ChallengeCLI <list of queries to search>
+Elements must be separated by spaces.
 There must be enteres at least 2 elements (in order to make a comparison)
 An element can contain 2 or more words if they are inside double quotes
 Examples of Command Line Interface:
-  ChallengeCLI Java .Net
-  ChallengeCLI "C SHarp" Python Perl
-  ChallengeCLI Javascript "Ruby on Rails"  
+  ChallengeCLI Java .Net     -> 2 elemenst
+  ChallengeCLI "C Sharp" Python Perl    -> 3 elements
+  ChallengeCLI Javascript "Ruby on Rails" Pascal   -> 4 elements
   
   
   
