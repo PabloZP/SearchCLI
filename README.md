@@ -13,3 +13,8 @@ Examples of Command Line Interface:
   Besides the CLI project, the solution includes a desktop project.
   Both projects call the core whih is in business layer called "BL"
   
+ Solution is in C#.
+ It shows some programmkhg concepts like Polymorphism.
+ Modularity, inheritance, etc.
+
+
